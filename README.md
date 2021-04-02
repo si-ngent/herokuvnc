@@ -29,14 +29,15 @@
 ##### Persyaratan:
  - Docker
  - GIT
- - Akun heroku
+ - Akun heroku ( Rekomendasi Unli Dyno )
  - Jaringan Stabil
  - Aplikasi kosong
 
 ##### Langkah:
-Klik Deploy link di bagian atas
+Klik Deploy Logo Heroku /  link di bagian atas
 
-Anda akan dimintai nama aplikasinya. Setelah Anda memasukkan nama aplikasi, semuanya akan dilakukan secara otomatis. Jika tidak ada kesalahan, Anda dapat mengakses aplikasi Anda di: https://yourappname.herokapp.com
+Anda akan dimintai nama aplikasinya. Setelah Anda memasukkan nama aplikasi, semuanya akan dilakukan secara otomatis. Jika tidak ada kesalahan, Anda dapat mengakses aplikasi Anda di: https://yourappname.herokapp.com/vnc.html
 
 My Telegram : https://t.me/siIaan
+
 Copyright 2021 siiaan
