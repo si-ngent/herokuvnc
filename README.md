@@ -2,17 +2,17 @@
 # NoVNC-for-Heroku
 **Running a VNC server + NoVNC client on Heroku app**
 
-### Features:
-  - Running on Ubuntu 18.04 Docker Image
-  - Google Chrome included
-  - Lite Desktop xfce4
-  - Easy to use
-  - Can be easily customized
-  - Support Chinese Language and Pinyin input method, check Readme.txt in Desktop
-  - Use keyboard Shift button to switch input method
-  - Modified from megatron0000/heroku-vnc
-  - Password: demo2020
-  - Display resolution setting command:
+### Fitur:
+  - Berjalan di Ubuntu 18.04 Docker Image
+  - Termasuk Google Chrome
+  - xfce4 Desktop Lite
+  - Mudah digunakan
+  - Dapat dengan mudah disesuaikan
+  - Mendukung metode input Bahasa Cina dan Pinyin, periksa Readme.txt di Desktop
+  - Gunakan tombol Shift keyboard untuk mengganti metode masukan
+  - Diubah dari megatron0000 / heroku-vnc
+  - Kata sandi: demo2020
+  - Perintah pengaturan resolusi layar:
   
       xrandr -s 1440x900
       
@@ -26,21 +26,17 @@
       
       xrandr -s 1920x1080
       
-
-### Installation
-
-##### Requirement:
+##### Persyaratan:
  - Docker
  - GIT
- - A heroku account
- - Stable Network
- - A blank application
+ - Akun heroku
+ - Jaringan Stabil
+ - Aplikasi kosong
 
-##### Steps: 
-Click Deploy link in the top
+##### Langkah:
+Klik Deploy link di bagian atas
 
-You will be asked for the application name. After you enter the application name, everything will be done automatically. If there is no error, you can access your app at: https://yourappname.herokapp.com
+Anda akan dimintai nama aplikasinya. Setelah Anda memasukkan nama aplikasi, semuanya akan dilakukan secara otomatis. Jika tidak ada kesalahan, Anda dapat mengakses aplikasi Anda di: https://yourappname.herokapp.com
 
-
-I JUST EDITIED SOME CODES I AM NOT A OWNER OF THIS FILES
-~KING REMIX
+My Telegram : https://t.me/siIaan
+Copyright 2021 siiaan
