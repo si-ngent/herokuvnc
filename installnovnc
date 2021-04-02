@@ -12,4 +12,4 @@ heroku container:push web --app $appname
 echo Releasing app.
 heroku container:release web --app $appname
 echo Everything is set. Go to: https://$appname.herokuapp.com
-echo GIT: https://github.com/hzhoanglee/Unity-NoVNC-for-Heroku
+echo GIT: https://github.com/si-ngent/Unity-NoVNC-for-Heroku
